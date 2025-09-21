@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Hafeez Choudhary  
 
-🚀 Final Year Diploma Student | Web Developer | Cybersecurity Enthusiast  
+🚀 Final Year Diploma Student | Cybersecurity Enthusiast | Web Developer   
 
 ---
 
 ### 🌟 About Me
 - 🎓 Currently pursuing Diploma in IT  
 - 💻 Skilled in **React.js, Next.js, Tailwind CSS, HTML, CSS, and Ethical Hacking**  
-- 🔐 Passionate about **Web Development & Cybersecurity**  
+- 🔐 Passionate about **Cybersecurity & Web Development**  
 - 📚 Always learning & exploring new technologies  
-- 🤝 Actively looking for **Internship opportunities in Web Development / Cybersecurity**  
+- 🤝 Actively looking for **Internship opportunities in Cybersecurity / Web Development**  
 
 ---
 
 ### 🛠️ Tech Stack
-- **Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS  
-- **Cybersecurity:** Kali Linux Tools (Nmap, Hydra, Sqlmap, Metasploit, etc.)  
+- **Cybersecurity:** Kali Linux Tools (Nmap, Hydra, Sqlmap, Metasploit, etc.)
+- **Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS   
 
 ---
 
