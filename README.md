@@ -7,17 +7,17 @@
 ### 🌟 About Me
 - 🎓 Currently pursuing Diploma in IT  
 - 💻 Skilled in **React.js, Next.js, Tailwind CSS, HTML, CSS, Nodejs, Express, MongoDB and Ethical Hacking**  
-- 🔐 Passionate about **Cybersecurity & Web Development**  
+- 🔐 Passionate about **Cybersecurity**  
 - 📚 Always learning & exploring new technologies  
-- 🤝 Actively looking for **Internship opportunities in Cybersecurity / Web Development**  
+- 🤝 Cybersecurity intern at **Maharsahtra Cyber**  
 
 ---
 
 ### 🛠️ Tech Stack
-- **Cybersecurity:** Kali Linux Tools (Nmap, Hydra, Sqlmap, Metasploit, etc.)
+- **Cybersecurity:** Kali Linux Tools (Nmap, Burpsuite, Hydra, Sqlmap, Metasploit, etc.)
 - **Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS
 - **Backend:** Nodejs (Basic), Express (Basic)
-- **Database:** MongoDB  
+- **Database:** MongoDB (Basic) 
 
 ---
 
@@ -29,7 +29,7 @@
 ---
 
 ### 📫 Connect With Me 
-- 💼 LinkedIn: https://www.linkedin.com/in/hafeez-choudhary  
+- 💼 LinkedIn:https://www.linkedin.com/in/hafeezchoudhary
 - 🐙 GitHub: https://github.com/hafeezchoudhary 
 
 ---
