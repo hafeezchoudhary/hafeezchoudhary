@@ -5,11 +5,11 @@
 ---
 
 ### 🌟 About Me
-- 🎓 Currently pursuing Diploma in IT  
+- 🎓 Currently pursuing Diploma in IT
+- 🤝 Cybersecurity intern at **Maharsahtra Cyber** 
 - 💻 Skilled in **React.js, Next.js, Tailwind CSS, HTML, CSS, Nodejs, Express, MongoDB and Ethical Hacking**  
 - 🔐 Passionate about **Cybersecurity**  
-- 📚 Always learning & exploring new technologies  
-- 🤝 Cybersecurity intern at **Maharsahtra Cyber**  
+- 📚 Always learning & exploring new technologies   
 
 ---
 
