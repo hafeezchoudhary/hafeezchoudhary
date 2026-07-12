@@ -1,11 +1,11 @@
 #  Hi, I'm Hafeez Choudhary  
 
-   Final Year Diploma Student | Cybersecurity Enthusiast | MERN Stack Developer   
+   IT Diploma Graduate | Cybersecurity Enthusiast | MERN Stack Developer   
 
 ---
 
 ###  About Me
--  Currently pursuing Diploma in IT 
+-  IT Diploma Graduate 
 -  Skilled in **React.js, Next.js, Tailwind CSS, HTML, CSS, Nodejs, Express, MongoDB and VAPT**  
 -  Passionate about **Cybersecurity**  
 -  Always learning & exploring new technologies   
