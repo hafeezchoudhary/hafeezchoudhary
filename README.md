@@ -24,7 +24,7 @@
 -  **HasCLI** – Python Command-Line Hashing & Verification Tool
 -  **APIRecon** – API Security Assessment and Reporting Platform
 -  **Password Manager** – Securely store & manage credentials  
--  **Weather App** – Real-time weather and location-based updates  
+-  **FieldSync** – Offline-First Rural Telemedicine Platform  
 
 ---
 
